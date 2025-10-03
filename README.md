@@ -26,6 +26,6 @@ Powered by **Python, OpenCV, and MediaPipe**.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/AkshaySathyan7/Snake-Game-.git
+   git clone https://github.com/AkshaySathyan7/Snake-Game.git
    cd Gesture-Snake
 
