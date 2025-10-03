@@ -8,6 +8,7 @@ Controls (gesture):
 Keyboard:
  - 'r' -> restart
  - 'Esc' -> quit
+ 
 """
 
 import cv2
